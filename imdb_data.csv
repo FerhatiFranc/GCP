@@ -1,0 +1,251 @@
+Rank,Movie,Year,Movie Rating,Duration,Numerical Rating,Votes
+1,The Shawshank Redemption,1994,R,2h 22m,9.3,2800000
+2,The Godfather,1972,R,2h 55m,9.2,1900000
+3,The Dark Knight,2008,PG-13,2h 32m,9.0,2800000
+4,The Godfather Part II,1974,R,3h 22m,9.0,1300000
+5,12 Angry Men,1957,Approved,1h 36m,9.0,830000
+6,Schindler's List,1993,R,3h 15m,9.0,1400000
+7,The Lord of the Rings: The Return of the King,2003,PG-13,3h 21m,9.0,1900000
+8,Pulp Fiction,1994,R,2h 34m,8.9,2100000
+9,The Lord of the Rings: The Fellowship of the Ring,2001,PG-13,2h 58m,8.8,1900000
+10,"The Good, the Bad and the Ugly",1966,Approved,2h 58m,8.8,788000
+11,Forrest Gump,1994,PG-13,2h 22m,8.8,2200000
+12,Fight Club,1999,R,2h 19m,8.8,2200000
+13,The Lord of the Rings: The Two Towers,2002,PG-13,2h 59m,8.8,1700000
+14,Inception,2010,PG-13,2h 28m,8.8,2500000
+15,Star Wars: Episode V - The Empire Strikes Back,1980,PG,2h 4m,8.7,1300000
+16,The Matrix,1999,R,2h 16m,8.7,2000000
+17,Goodfellas,1990,18+,2h 25m,8.7,1200000
+18,Spider-Man: Across the Spider-Verse,2023,PG,2h 20m,8.8,246000
+19,One Flew Over the Cuckoo's Nest,1975,R,2h 13m,8.7,1000000
+20,Se7en,1995,R,2h 7m,8.6,1700000
+21,It's a Wonderful Life,1946,PG,2h 10m,8.6,478000
+22,Seven Samurai,1954,Not Rated,3h 27m,8.6,357000
+23,The Silence of the Lambs,1991,R,1h 58m,8.6,1500000
+24,Interstellar,2014,PG-13,2h 49m,8.7,2000000
+25,Saving Private Ryan,1998,R,2h 49m,8.6,1400000
+26,City of God,2002,R,2h 10m,8.6,780000
+27,Life Is Beautiful,1997,PG-13,1h 56m,8.6,721000
+28,The Green Mile,1999,R,3h 9m,8.6,1400000
+29,Star Wars: Episode IV - A New Hope,1977,PG,2h 1m,8.6,1400000
+30,Terminator 2: Judgment Day,1991,R,2h 17m,8.6,1100000
+31,Back to the Future,1985,PG,1h 56m,8.5,1300000
+32,Spirited Away,2001,PG,2h 5m,8.6,807000
+33,The Pianist,2002,R,2h 30m,8.5,875000
+34,Psycho,1960,R,1h 49m,8.5,697000
+35,Parasite,2019,R,2h 12m,8.5,883000
+36,Gladiator,2000,R,2h 35m,8.5,1600000
+37,The Lion King,1994,G,1h 28m,8.5,1100000
+38,Léon: The Professional,1994,R,1h 50m,8.5,1200000
+39,Oppenheimer,2023,R,3h,8.6,406000
+40,American History X,1998,R,1h 59m,8.5,1200000
+41,The Departed,2006,R,2h 31m,8.5,1400000
+42,Whiplash,2014,R,1h 46m,8.5,928000
+43,The Prestige,2006,PG-13,2h 10m,8.5,1400000
+44,The Usual Suspects,1995,R,1h 46m,8.5,1100000
+45,Grave of the Fireflies,1988,Not Rated,1h 29m,8.5,294000
+46,Casablanca,1942,PG,1h 42m,8.5,591000
+47,Harakiri,1962,Not Rated,2h 13m,8.6,63000
+48,The Intouchables,2011,R,1h 52m,8.5,896000
+49,Modern Times,1936,G,1h 27m,8.5,252000
+50,Cinema Paradiso,1988,PG,2h 35m,8.5,273000
+51,Once Upon a Time in the West,1968,PG-13,2h 45m,8.5,341000
+52,Rear Window,1954,PG,1h 52m,8.5,508000
+53,Alien,1979,R,1h 57m,8.5,917000
+54,City Lights,1931,G,1h 27m,8.5,191000
+55,Apocalypse Now,1979,R,2h 27m,8.4,690000
+56,Memento,2000,R,1h 53m,8.4,1300000
+57,Django Unchained,2012,R,2h 45m,8.5,1600000
+58,Indiana Jones and the Raiders of the Lost Ark,1981,PG,1h 55m,8.4,1000000
+59,WALL·E,2008,G,1h 38m,8.4,1200000
+60,The Lives of Others,2006,R,2h 17m,8.4,401000
+61,Sunset Blvd.,1950,Passed,1h 50m,8.4,230000
+62,Paths of Glory,1957,Approved,1h 28m,8.4,205000
+63,Avengers: Infinity War,2018,PG-13,2h 29m,8.4,1200000
+64,The Shining,1980,R,2h 26m,8.4,1100000
+65,The Great Dictator,1940,G,2h 5m,8.4,231000
+66,Witness for the Prosecution,1957,Approved,1h 56m,8.4,132000
+67,Spider-Man: Into the Spider-Verse,2018,PG,1h 57m,8.4,626000
+68,Aliens,1986,R,2h 17m,8.4,742000
+69,American Beauty,1999,R,2h 2m,8.3,1200000
+70,The Dark Knight Rises,2012,PG-13,2h 44m,8.4,1800000
+71,Inglourious Basterds,2009,R,2h 33m,8.3,1500000
+72,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,PG,1h 35m,8.4,506000
+73,Oldboy,2003,R,2h,8.4,608000
+74,Coco,2017,PG,1h 45m,8.4,552000
+75,Amadeus,1984,PG,2h 40m,8.4,416000
+76,Toy Story,1995,G,1h 21m,8.3,1000000
+77,Das Boot,1981,R,2h 29m,8.4,258000
+78,Braveheart,1995,R,2h 58m,8.3,1100000
+79,Joker,2019,R,2h 2m,8.4,1400000
+80,Avengers: Endgame,2019,PG-13,3h 1m,8.4,1200000
+81,Princess Mononoke,1997,PG-13,2h 14m,8.3,414000
+82,Good Will Hunting,1997,R,2h 6m,8.3,1000000
+83,Once Upon a Time in America,1984,R,3h 49m,8.3,366000
+84,Your Name.,2016,TV-PG,1h 46m,8.4,297000
+85,3 Idiots,2009,PG-13,2h 50m,8.4,417000
+86,High and Low,1963,Not Rated,2h 23m,8.4,49000
+87,Singin' in the Rain,1952,G,1h 43m,8.3,253000
+88,Requiem for a Dream,2000,Unrated,1h 42m,8.3,873000
+89,Capernaum,2018,R,2h 6m,8.4,99000
+90,Toy Story 3,2010,G,1h 43m,8.3,868000
+91,Come and See,1985,Not Rated,2h 22m,8.4,89000
+92,Star Wars: Episode VI - Return of the Jedi,1983,PG,2h 11m,8.3,1100000
+93,Eternal Sunshine of the Spotless Mind,2004,R,1h 48m,8.3,1000000
+94,2001: A Space Odyssey,1968,G,2h 29m,8.3,696000
+95,The Hunt,2012,R,1h 55m,8.3,348000
+96,Reservoir Dogs,1992,R,1h 39m,8.3,1100000
+97,Ikiru,1952,Not Rated,2h 23m,8.3,84000
+98,Lawrence of Arabia,1962,Approved,3h 38m,8.3,305000
+99,Citizen Kane,1941,PG,1h 59m,8.3,455000
+100,M,1931,Passed,1h 39m,8.3,164000
+101,North by Northwest,1959,Approved,2h 16m,8.3,338000
+102,The Apartment,1960,Approved,2h 5m,8.3,190000
+103,Vertigo,1958,PG,2h 8m,8.3,416000
+104,Double Indemnity,1944,Passed,1h 47m,8.3,163000
+105,Amélie,2001,R,2h 2m,8.3,777000
+106,Scarface,1983,18+,2h 50m,8.3,882000
+107,Full Metal Jacket,1987,R,1h 56m,8.3,769000
+108,A Clockwork Orange,1971,X,2h 16m,8.3,858000
+109,Incendies,2010,R,2h 11m,8.3,188000
+110,Hamilton,2020,PG-13,2h 40m,8.3,105000
+111,Heat,1995,R,2h 50m,8.3,691000
+112,Up,2009,PG,1h 36m,8.3,1100000
+113,To Kill a Mockingbird,1962,Approved,2h 9m,8.3,326000
+114,The Sting,1973,PG,2h 9m,8.3,272000
+115,A Separation,2011,PG-13,2h 3m,8.3,252000
+116,Indiana Jones and the Last Crusade,1989,PG-13,2h 7m,8.2,790000
+117,Metropolis,1927,Not Rated,2h 33m,8.3,180000
+118,Die Hard,1988,R,2h 12m,8.2,911000
+119,L.A. Confidential,1997,R,2h 18m,8.2,600000
+120,Bicycle Thieves,1948,Not Rated,1h 29m,8.3,170000
+121,Snatch,2000,R,1h 42m,8.2,885000
+122,Like Stars on Earth,2007,PG,2h 45m,8.3,201000
+123,Taxi Driver,1976,R,1h 54m,8.2,882000
+124,1917,2019,R,1h 59m,8.2,639000
+125,Downfall,2004,R,2h 36m,8.2,366000
+126,Dangal,2016,Not Rated,2h 41m,8.3,201000
+127,Top Gun: Maverick,2022,PG-13,2h 10m,8.3,626000
+128,For a Few Dollars More,1965,R,2h 12m,8.2,266000
+129,Batman Begins,2005,PG-13,2h 20m,8.2,1500000
+130,Some Like It Hot,1959,Passed,2h 1m,8.2,276000
+131,The Kid,1921,Passed,1h 8m,8.2,131000
+132,The Wolf of Wall Street,2013,R,3h,8.2,1500000
+133,The Father,2020,PG-13,1h 37m,8.2,176000
+134,Green Book,2018,PG-13,2h 10m,8.2,533000
+135,All About Eve,1950,Passed,2h 18m,8.2,136000
+136,Judgment at Nuremberg,1961,Approved,2h 59m,8.3,81000
+137,The Truman Show,1998,PG,1h 43m,8.2,1100000
+138,There Will Be Blood,2007,R,2h 38m,8.2,617000
+139,Ran,1985,R,2h 42m,8.2,131000
+140,Casino,1995,R,2h 58m,8.2,544000
+141,Shutter Island,2010,R,2h 18m,8.2,1400000
+142,Pan's Labyrinth,2006,R,1h 58m,8.2,688000
+143,The Sixth Sense,1999,PG-13,1h 47m,8.2,1000000
+144,Unforgiven,1992,R,2h 10m,8.2,426000
+145,Jurassic Park,1993,PG-13,2h 7m,8.2,1000000
+146,A Beautiful Mind,2001,PG-13,2h 15m,8.2,961000
+147,The Treasure of the Sierra Madre,1947,Passed,2h 6m,8.2,129000
+148,Yojimbo,1961,Not Rated,1h 50m,8.2,128000
+149,No Country for Old Men,2007,R,2h 2m,8.2,1000000
+150,Monty Python and the Holy Grail,1975,PG,1h 31m,8.2,557000
+151,Kill Bill: Vol. 1,2003,R,1h 51m,8.2,1200000
+152,The Great Escape,1963,Approved,2h 52m,8.2,252000
+153,The Thing,1982,16+,1h 49m,8.2,446000
+154,Rashomon,1950,Not Rated,1h 28m,8.2,175000
+155,Finding Nemo,2003,G,1h 40m,8.2,1100000
+156,The Elephant Man,1980,PG,2h 4m,8.2,251000
+157,Chinatown,1974,R,2h 10m,8.2,339000
+158,Spider-Man: No Way Home,2021,PG-13,2h 28m,8.2,827000
+159,Gone with the Wind,1939,Passed,3h 58m,8.2,326000
+160,V for Vendetta,2005,R,2h 12m,8.2,1200000
+161,Dial M for Murder,1954,PG,1h 45m,8.2,183000
+162,Howl's Moving Castle,2004,PG,1h 59m,8.2,422000
+163,Raging Bull,1980,R,2h 9m,8.1,368000
+164,"Lock, Stock and Two Smoking Barrels",1998,R,1h 47m,8.1,601000
+165,The Secret in Their Eyes,2009,R,2h 9m,8.2,217000
+166,Inside Out,2015,PG,1h 35m,8.1,751000
+167,Prisoners,2013,R,2h 33m,8.1,767000
+168,"Three Billboards Outside Ebbing, Missouri",2017,R,1h 55m,8.1,535000
+169,The Bridge on the River Kwai,1957,PG,2h 41m,8.1,228000
+170,Trainspotting,1996,R,1h 33m,8.1,708000
+171,Fargo,1996,R,1h 38m,8.1,701000
+172,Warrior,2011,PG-13,2h 20m,8.1,487000
+173,Gran Torino,2008,R,1h 56m,8.1,797000
+174,Catch Me If You Can,2002,PG-13,2h 21m,8.1,1000000
+175,My Neighbor Totoro,1988,G,1h 26m,8.1,360000
+176,Million Dollar Baby,2004,PG-13,2h 12m,8.1,706000
+177,Klaus,2019,PG,1h 36m,8.2,171000
+178,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,2h 10m,8.1,915000
+179,Children of Heaven,1997,PG,1h 29m,8.2,78000
+180,Blade Runner,1982,R,1h 57m,8.1,799000
+181,12 Years a Slave,2013,R,2h 14m,8.1,724000
+182,Before Sunrise,1995,R,1h 41m,8.1,327000
+183,The Gold Rush,1925,Passed,1h 35m,8.1,115000
+184,The Grand Budapest Hotel,2014,R,1h 39m,8.1,855000
+185,Ben-Hur,1959,G,3h 32m,8.1,248000
+186,Gone Girl,2014,R,2h 29m,8.1,1000000
+187,On the Waterfront,1954,Approved,1h 48m,8.1,160000
+188,Barry Lyndon,1975,PG,3h 5m,8.1,177000
+189,Hacksaw Ridge,2016,R,2h 19m,8.1,564000
+190,In the Name of the Father,1993,R,2h 13m,8.1,182000
+191,The General,1926,Passed,1h 18m,8.1,95000
+192,The Deer Hunter,1978,R,3h 3m,8.1,351000
+193,Memories of Murder,2003,Not Rated,2h 12m,8.1,202000
+194,Wild Strawberries,1957,Not Rated,1h 31m,8.1,112000
+195,The Wages of Fear,1953,Not Rated,2h 11m,8.2,64000
+196,The Third Man,1949,Approved,1h 33m,8.1,177000
+197,Wild Tales,2014,R,2h 2m,8.1,209000
+198,Sherlock Jr.,1924,Passed,45m,8.2,54000
+199,Mad Max: Fury Road,2015,R,2h,8.1,1000000
+200,Dead Poets Society,1989,PG,2h 8m,8.1,520000
+201,Mr. Smith Goes to Washington,1939,Passed,2h 9m,8.1,119000
+202,"Monsters, Inc.",2001,G,1h 32m,8.1,947000
+203,How to Train Your Dragon,2010,PG,1h 38m,8.1,774000
+204,Jaws,1975,PG,2h 4m,8.1,638000
+205,Mary and Max,2009,Not Rated,1h 32m,8.1,183000
+206,The Seventh Seal,1957,Not Rated,1h 36m,8.1,193000
+207,Room,2015,R,1h 58m,8.1,437000
+208,The Big Lebowski,1998,R,1h 57m,8.1,837000
+209,Ford v Ferrari,2019,PG-13,2h 32m,8.1,434000
+210,Tokyo Story,1953,Not Rated,2h 16m,8.1,65000
+211,Ratatouille,2007,G,1h 51m,8.1,785000
+212,Rocky,1976,PG,2h,8.1,608000
+213,Hotel Rwanda,2004,PG-13,2h 1m,8.1,365000
+214,The Passion of Joan of Arc,1928,Passed,1h 54m,8.1,58000
+215,Logan,2017,R,2h 17m,8.1,802000
+216,Platoon,1986,R,2h,8.1,428000
+217,Spotlight,2015,R,2h 9m,8.1,488000
+218,The Terminator,1984,R,1h 47m,8.1,898000
+219,Jai Bhim,2021,TV-MA,2h 44m,8.8,210000
+220,Before Sunset,2004,R,1h 20m,8.1,278000
+221,Rush,2013,R,2h 3m,8.1,498000
+222,Network,1976,R,2h 1m,8.1,165000
+223,Stand by Me,1986,R,1h 29m,8.1,425000
+224,The Best Years of Our Lives,1946,Approved,2h 50m,8.1,68000
+225,La haine,1995,Not Rated,1h 38m,8.1,186000
+226,The Wizard of Oz,1939,G,1h 42m,8.1,416000
+227,Into the Wild,2007,R,2h 28m,8.1,642000
+228,The Exorcist,1973,R,2h 2m,8.1,430000
+229,Pirates of the Caribbean: The Curse of the Black Pearl,2003,PG-13,2h 23m,8.1,1200000
+230,The Incredibles,2004,PG,1h 55m,8.0,777000
+231,To Be or Not to Be,1942,Passed,1h 39m,8.2,41000
+232,Groundhog Day,1993,PG,1h 41m,8.0,661000
+233,The Grapes of Wrath,1940,Passed,2h 9m,8.1,97000
+234,My Father and My Son,2005,Not Rated,1h 52m,8.2,89000
+235,Hachi: A Dog's Tale,2009,G,1h 33m,8.1,300000
+236,The Battle of Algiers,1966,Not Rated,2h 1m,8.1,63000
+237,The Handmaiden,2016,Not Rated,2h 25m,8.1,162000
+238,Amores Perros,2000,R,2h 34m,8.1,248000
+239,Rebecca,1940,Approved,2h 10m,8.1,143000
+240,Cool Hand Luke,1967,GP,2h 7m,8.1,184000
+241,The Sound of Music,1965,G,2h 52m,8.1,249000
+242,Pather Panchali,1955,Not Rated,2h 5m,8.2,36000
+243,It Happened One Night,1934,Passed,1h 45m,8.1,109000
+244,The Iron Giant,1999,PG,1h 26m,8.1,215000
+245,The 400 Blows,1959,Not Rated,1h 39m,8.1,124000
+246,The Help,2011,PG-13,2h 26m,8.1,478000
+247,Persona,1966,Not Rated,1h 23m,8.1,126000
+248,Life of Brian,1979,R,1h 34m,8.0,414000
+249,Aladdin,1992,G,1h 30m,8.0,447000
+250,Dances with Wolves,1990,PG-13,3h 1m,8.0,281000
